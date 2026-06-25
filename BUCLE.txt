@@ -1,0 +1,5 @@
+Un bucle es una instrucción que indica a la inteligencia artificial que debe repetir una acción o generar varios elementos siguiendo un mismo patrón
+hasta cumplir una cantidad o condición determinada. Esto permite automatizar tareas y obtener respuestas organizadas y completas.
+Por ejemplo, en lugar de pedir: "Dame ideas de emprendimiento", podemos utilizar un bucle como: 
+"Genera 10 ideas de emprendimiento y, para cada una, incluye el nombre del negocio, una breve descripción, el público objetivo y la inversión inicial aproximada".
+En este caso, la IA repetirá la misma estructura para cada una de las 10 ideas solicitadas, manteniendo un formato ordenado y uniforme en toda la respuesta.
