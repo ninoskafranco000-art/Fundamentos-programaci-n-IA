@@ -1,0 +1,8 @@
+La inteligencia artificial puede ayudar a un programador principiante facilitando el aprendizaje y el desarrollo de proyectos. 
+Permite resolver dudas, 
+explicar conceptos, 
+corregir errores en el código 
+y generar ejemplos prácticos para comprender mejor los temas estudiados.
+Por ejemplo, un estudiante puede pedir: "Explícame qué es un bucle for en Python y dame tres ejemplos sencillos", 
+y la IA le proporcionará una explicación clara junto con ejemplos que le ayudarán a practicar y mejorar sus habilidades de programación.
+De esta manera, la inteligencia artificial funciona como una herramienta de apoyo que acelera el aprendizaje y permite a los principiantes avanzar con mayor confianza y autonomía.
