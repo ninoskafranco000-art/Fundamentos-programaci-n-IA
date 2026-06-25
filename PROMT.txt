@@ -4,3 +4,6 @@ Por ejemplo, si le decimos a la IA: "Hazme un texto sobre la Guerra Fría", podr
 En cambio, si escribimos: "Genera un texto de tres párrafos sobre la Guerra Fría, incluyendo fechas, participantes, causas, consecuencias, países involucrados,
 resultados y frases utilizadas por los medios de comunicación de la época", estamos dando indicaciones más claras y específicas.
 Mientras más detallado y preciso sea el prompt, mejor podrá la IA comprender y cumplir con lo solicitado.
+**Para mejorar el promt debemos:**
+Asignar un rol
+Dar contexto
