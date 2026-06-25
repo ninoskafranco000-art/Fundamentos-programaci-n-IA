@@ -1,0 +1,7 @@
+Un condicional es una instrucción dentro de un prompt que establece una condición o situación específica que la inteligencia artificial 
+debe cumplir antes de realizar una acción o generar una respuesta. 
+Esto permite obtener resultados más precisos y adaptados a lo que se necesita.
+Por ejemplo, en lugar de escribir: "Hazme una presentación sobre el reciclaje", podemos usar un condicional como: 
+"Si la presentación es para estudiantes de primaria, utiliza un lenguaje sencillo y ejemplos cotidianos; de lo contrario, 
+  emplea información más técnica y detallada sobre el reciclaje".
+De esta manera, la IA ajustará su respuesta según la condición establecida, ofreciendo un resultado más adecuado al contexto y al público al que va dirigido.
